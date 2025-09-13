@@ -4,6 +4,7 @@ Project Review:
 This project builds a data warehouse in SQLite from orders.csv and products.csv. It supports analytical queries and demonstrates how the model can be used for dashboarding.
 
 Dependencies: Python, Sqlite, pandas
+
 The data provided on the assignment was saved into a csv file and uploaded for use.
 
 
